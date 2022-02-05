@@ -1,1 +1,2 @@
 # Blind-Source-Separation
+Blind source separation is a signal processing technique that solely separates the source signal from the observed mixed signal when the mixing mode and source signal are unknown. This MATLAB code is an underdetermined blind source separation mixing matrix estimation method, using sparse subspace clustering (SSC) to determine the number of source signals and accurately determine the mixing matrix. Speech signals were used to verify the effectiveness of the algorithm, which were all from the open source database Librispeech.
